@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://photos.app.goo.gl/3Vz5Zgf3iA5LSNfP7" alt="Meu banner">
+  <img src="https://ibb.co/3k8z4V3" alt="Meu banner">
 </p>
 
 <h1 align="center">Danilo Santos</h1>
@@ -26,8 +26,8 @@ Eu amo o Mundo da Programação! Pois um computador, permite que você faça mai
 
 <div>
   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DaniloFelipSantos&show_icons=true&theme=prussian"
+  <source align="left"
+  srcset="https://github-readme-stats.vercel.app/api?username=DaniloFelipSantos&show_icons=true&theme=prussian"
     media="(prefers-color-scheme: dark)"
   />
   <source
