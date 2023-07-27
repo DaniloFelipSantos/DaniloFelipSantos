@@ -3,16 +3,16 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm Danilo Santos</a> 👋
+Olá, sou Danilo Santos</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻!
+Sou um Desenvolvedor Web Full Stack 💻
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+Eu amo todo o processo de desenvolvimento de sites criativos. Adoro o desafio de encontrar caches e gastar tempo para conhecer novas pessoas. Aprender como as pessoas escondem as coisas e onde as pessoas provavelmente olharão.
 
-### 🤝 Connect with me:
+### 🤝 Conecte-se comigo:
 
 <a href="https://www.linkedin.comin/danilo-felipe-625167244"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
@@ -20,24 +20,23 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 Se você tiver alguma dúvida/comentário, não hesite em entrar em contato comigo!
 
-## 🔭 I'm currently working on
+## 🔭 Atualmente estou trabalhando em:
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- Meus projetos antigos
+- Aplicativo de recomendação de restaurantes (React-Native)
+- Mobile + Desktop Spotify Clone (trabalhando em breve...)
+- Meu próximo blog
+- Minha habilidade CSS
 
-## 🌱 I'm currently learning
-
+## 🌱 No momento estou aprendendo:
 - React Native
 - Firebase
 - React Context API
 - Styled Components  
 
-## 💼 Technical Skills
+## 💼 Habilidades técnicas:
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -49,7 +48,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 </br>
 
-## 📈 GitHub Stats 
+## 📈 Estatísticas do GitHub:
 
 <div>
   <picture>
