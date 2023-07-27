@@ -10,10 +10,6 @@ Desenvolvedor Web Full Stack 💻
 
 Eu amo o Mundo da Programação! Pois um computador, permite que você faça mais erros do que qualquer outra invenção da história da humanidade, com exceção das mãos e da tequila. E isso é o que o faz ser perfeito...
 
-<a src="https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined"></a>
-
-<a src="https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined></a>
-
 ##  Habilidades técnicas: 💼
 <div style="display: inline_block"><br>
   
