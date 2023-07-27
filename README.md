@@ -26,11 +26,11 @@ Eu amo o Mundo da Programação! Pois um computador, permite que você faça mai
 
 <div>
   <picture>
-  <source align="left">
+  <source
   srcset="https://github-readme-stats.vercel.app/api?username=DaniloFelipSantos&show_icons=true&theme=prussian"
     media="(prefers-color-scheme: dark)"
   />
-  <source>
+  <source
     srcset="https://github-readme-stats.vercel.app/api?username=DaniloFelipSantos&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
