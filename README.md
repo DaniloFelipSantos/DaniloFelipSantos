@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![logo](https://github.com/DaniloFelipSantos/DaniloFelipSantos/assets/136977321/42b26b1a-f05e-4085-b9bf-2480a369fb92)" alt="Meu banner">
+  <img src="https://photos.app.goo.gl/3Vz5Zgf3iA5LSNfP7" alt="Meu banner">
 </p>
 
 <h1 align="center">Danilo Santos</h1>
