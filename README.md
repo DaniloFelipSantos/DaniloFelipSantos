@@ -1,42 +1,16 @@
 <p align="center">
-  <img src="https://bit.ly/44b5Ym0" alt="banner">
+  <img src="![logo](https://github.com/DaniloFelipSantos/DaniloFelipSantos/assets/136977321/42b26b1a-f05e-4085-b9bf-2480a369fb92)" alt="Meu banner">
 </p>
 
-<h3 align="center">
-Olá, sou Danilo Santos</a> 👋
-</h3>
+<h1 align="center">Danilo Santos</h1>
 
 <h2 align="center">
-Sou um Desenvolvedor Web Full Stack 💻
+Desenvolvedor Web Full Stack 💻
 </h2> 
 
-Eu amo todo o processo de desenvolvimento de sites criativos. Adoro o desafio de encontrar caches e gastar tempo para conhecer novas pessoas. Aprender como as pessoas escondem as coisas e onde as pessoas provavelmente olharão.
+Eu amo o Mundo da Programação! Pois um computador, permite que você faça mais erros do que qualquer outra invenção da história da humanidade, com exceção das mãos e da tequila. E isso é o que o faz ser perfeito...
 
-### 🤝 Conecte-se comigo:
-
-<a href="https://www.linkedin.comin/danilo-felipe-625167244"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-
-<a href="https://instagram.com/daniiloosant"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="21px"/></a>
-
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
-- 💬 Se você tiver alguma dúvida/comentário, não hesite em entrar em contato comigo!
-
-## 🔭 Atualmente estou trabalhando em:
-
-- Meus projetos antigos
-- Aplicativo de recomendação de restaurantes (React-Native)
-- Mobile + Desktop Spotify Clone (trabalhando em breve...)
-- Meu próximo blog
-- Minha habilidade CSS
-
-## 🌱 No momento estou aprendendo:
-- React Native
-- Firebase
-- React Context API
-- Styled Components  
-
-## 💼 Habilidades técnicas:
+##  Habilidades técnicas: 💼
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -48,7 +22,7 @@ Eu amo todo o processo de desenvolvimento de sites criativos. Adoro o desafio de
 
 </br>
 
-## 📈 Estatísticas do GitHub:
+##  Estatísticas do GitHub: 📈
 
 <div>
   <picture>
@@ -65,3 +39,31 @@ Eu amo todo o processo de desenvolvimento de sites criativos. Adoro o desafio de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloFelipSantos&layout=compact&theme=prussian)
 </div>
+
+##  Atualmente estou trabalhando em: 🔭
+
+- Revendo alguns projetos antigos
+- Aplicativos (React-Native)
+- Mobile + Desktop (trabalhando em breve...)
+- Meu própios projetos
+- Minhas habilidades em CSS
+
+## No momento estou aprendendo:🌱
+- React Native
+- Firebase
+- React Context API
+- Styled Components
+
+## Conecte-se comigo:🤝
+
+<a href="https://wa.me/84998895666"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/whatsapp.png" alt="whatsapp"/></a>
+
+<a href="https://instagram.com/daniiloosant"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/></a>
+
+<a href="mailto:df278254@gmail.com/"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/></a>
+
+<a href="https://www.facebook.com/danilo.felipe.395454"><img align="left" width="30px" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a>
+
+<a href="https://www.linkedin.comin/danilo-felipe-625167244"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/></a></br>
+
+- 💬 Se você tiver alguma dúvida/comentário, não hesite em entrar em contato comigo!
