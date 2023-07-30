@@ -1,16 +1,30 @@
-<p align="center">
-  <img src="https://ibb.co/3k8z4V3" alt="Meu banner">
-</p>
+<div>
+  
+  <h1 align="center">
+    Olá! Sou 
+    <a href="https://www.linkedin.com/in/danilo-felipe-625167244">Danilo Santos💻</a>
+  </h1> 
 
-<h1 align="center">Danilo Santos</h1>
+  Eu amo o Mundo da Programação! Pois um computador, permite que você faça mais erros do que qualquer outra invenção da história da   humanidade, com exceção das mãos e da tequila. E isso é o que o faz ser perfeito...
 
-<h2 align="center">
-Desenvolvedor Web Full Stack 💻
-</h2> 
+  
+<div align="center">
 
-Eu amo o Mundo da Programação! Pois um computador, permite que você faça mais erros do que qualquer outra invenção da história da humanidade, com exceção das mãos e da tequila. E isso é o que o faz ser perfeito...
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-##  Habilidades técnicas: 💼
+
+
+##  Estatísticas do GitHub: 📈
+
+<div align="center">
+  <a href="https://github.com/DaniloFelipSantos">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=prussian&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=prussian&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+## Habilidades técnicas: 💼
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,24 +35,6 @@ Eu amo o Mundo da Programação! Pois um computador, permite que você faça mai
 </div>
 
 </br>
-
-##  Estatísticas do GitHub: 📈
-
-<div>
-  <picture>
-  <source
-  srcset="https://github-readme-stats.vercel.app/api?username=DaniloFelipSantos&show_icons=true&theme=prussian"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DaniloFelipSantos&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniloFelipSantos&show_icons=true" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloFelipSantos&layout=compact&theme=prussian)
-</div>
 
 ##  Atualmente estou trabalhando em: 🔭
 
@@ -54,16 +50,19 @@ Eu amo o Mundo da Programação! Pois um computador, permite que você faça mai
 - React Context API
 - Styled Components
 
-## Conecte-se comigo:🤝
+<div align="center"> <h2> Conecte-se comigo:🤝</h2>
 
-<a href="https://wa.me/5584998895666"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/whatsapp.png" alt="whatsapp"/></a>
-
-<a href="https://instagram.com/daniiloosant"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/></a>
-
-<a href="mailto:df278254@gmail.com"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/></a>
-
-<a href="https://www.facebook.com/danilo.felipe.395454?mibextid=ZbWKwL"><img align="left" width="30px" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a>
-
-<a href="https://www.linkedin.com/in/danilo-felipe-625167244"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/></a></br>
+<div align="center">
+  <a href="https://wa.me/5584998895666"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/whatsapp.png" alt="whatsapp"/></a>
+  
+  <a href="https://instagram.com/daniiloosant"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/></a>
+  
+  <a href="mailto:df278254@gmail.com"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/></a>
+  
+  <a href="https://www.facebook.com/danilo.felipe.395454?mibextid=ZbWKwL"><img align="left" width="30px" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a>
+  
+  <a href="https://www.linkedin.com/in/danilo-felipe-625167244"><img align="left" width="30px" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/></a></br>
+</div>
+</div>
 
 - 💬 Se você tiver alguma dúvida/comentário, não hesite em entrar em contato comigo!
