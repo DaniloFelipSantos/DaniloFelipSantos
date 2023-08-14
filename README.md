@@ -1,9 +1,5 @@
-<div align="center" alt="Danilo-CSS">
-   <img src="https://github.com/DaniloFelipSantos/DaniloFelipSantos/assets/136977321/9eef18fb-a890-4bda-bab6-73f98103d05e"/>
-</div>
-
 <div>
-  
+ 
   <h1 align="center">
     Olá! Sou 
     <a href="https://www.linkedin.com/in/danilo-felipe-625167244">Danilo 💻</a>
