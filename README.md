@@ -31,17 +31,14 @@
 
 ##  Atualmente estou trabalhando em: 🔭
 
-- Revendo alguns projetos antigos
-- Aplicativos (React-Native)
-- Mobile + Desktop (trabalhando em breve...)
+- Alguns sistemas em C++
 - Meu própios projetos
-- Minhas habilidades em CSS
+- Minhas habilidades em CSS/HTML
 
 ## No momento estou aprendendo:🌱
-- React Native
-- Firebase
-- React Context API
-- Styled Components
+- Python
+- PostgreSQL
+- P.O.O.
 
   
   <div align="center">
